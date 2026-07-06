@@ -17,6 +17,7 @@ temp/
 local/
 profiles/
 settings/
+extensions/cocos-mcp-server/
 
 # Build/artifacts
 build/
@@ -28,3 +29,4 @@ output/
 # IDE/editor files
 .vscode/
 .idea/
+.gitignore
